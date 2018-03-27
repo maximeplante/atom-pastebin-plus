@@ -18,6 +18,7 @@ Note: if no selection is made, the complete file will be uploaded to Pastebin.
 * Copy link to clipboard.
 * Open in browser.
 ### Improvements over atom-pastebin
+* Ability to upload a selection instead of the whole file.
 * Minimal footprint on Atom startup time (~5ms vs ~100ms).
 * Better error handling.
 * No need to provide a developer key.
