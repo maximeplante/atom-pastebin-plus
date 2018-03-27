@@ -13,7 +13,7 @@
   "activationCommands": {
     "atom-workspace": "atom-pastebin-plus:upload-to-pastebin"
   },
-  "repository": "https://github.com/atom/atom-pastebin-plus",
+  "repository": "https://github.com/maximeplante/atom-pastebin-plus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
