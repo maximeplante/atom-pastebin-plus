@@ -1,0 +1,23 @@
+{
+  "name": "atom-pastebin-plus",
+  "main": "./lib/atom-pastebin-plus",
+  "version": "0.1.0",
+  "description": "Upload to Pastebin directly from Atom",
+  "keywords": [
+    "pastebin",
+    "snippets",
+    "snippet",
+    "share",
+    "upload"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-pastebin-plus:upload-to-pastebin"
+  },
+  "repository": "https://github.com/atom/atom-pastebin-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

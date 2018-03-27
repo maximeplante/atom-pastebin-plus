@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Upload to Pastebin",
+        "command": "atom-pastebin-plus:upload-to-pastebin"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom Pastebin Plus",
+          "submenu": [
+            {
+              "label": "Upload to Pastebin",
+              "command": "atom-pastebin-plus:upload-to-pastebin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
