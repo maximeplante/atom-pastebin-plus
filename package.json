@@ -1,7 +1,7 @@
 {
   "name": "atom-pastebin-plus",
   "main": "./lib/atom-pastebin-plus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Upload to Pastebin directly from Atom",
   "keywords": [
     "pastebin",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
