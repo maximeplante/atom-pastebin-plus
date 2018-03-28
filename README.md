@@ -17,6 +17,7 @@ Note: if no selection is made, the complete file will be uploaded to Pastebin.
 * Paste expiration delay can be changed in the settings.
 * Copy link to clipboard.
 * Open in browser.
+
 ### Improvements over atom-pastebin
 * Ability to upload a selection instead of the whole file.
 * Minimal footprint on Atom startup time (~5ms vs ~100ms).
