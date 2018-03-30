@@ -2,7 +2,7 @@
   "name": "atom-pastebin-plus",
   "main": "./lib/atom-pastebin-plus",
   "version": "0.2.3",
-  "description": "Upload to Pastebin directly from Atom",
+  "description": "Upload to Pastebin in a single keystroke",
   "keywords": [
     "pastebin",
     "snippets",
