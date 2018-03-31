@@ -1,7 +1,7 @@
 {
   "name": "atom-pastebin-plus",
   "main": "./lib/atom-pastebin-plus",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Upload to Pastebin in a single keystroke",
   "keywords": [
     "pastebin",
